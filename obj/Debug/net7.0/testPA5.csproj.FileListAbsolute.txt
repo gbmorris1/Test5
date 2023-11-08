@@ -1,0 +1,15 @@
+/Users/gmorris/testPA5/obj/Debug/net7.0/testPA5.csproj.AssemblyReference.cache
+/Users/gmorris/testPA5/obj/Debug/net7.0/testPA5.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gmorris/testPA5/obj/Debug/net7.0/testPA5.AssemblyInfoInputs.cache
+/Users/gmorris/testPA5/obj/Debug/net7.0/testPA5.AssemblyInfo.cs
+/Users/gmorris/testPA5/obj/Debug/net7.0/testPA5.csproj.CoreCompileInputs.cache
+/Users/gmorris/testPA5/bin/Debug/net7.0/testPA5
+/Users/gmorris/testPA5/bin/Debug/net7.0/testPA5.deps.json
+/Users/gmorris/testPA5/bin/Debug/net7.0/testPA5.runtimeconfig.json
+/Users/gmorris/testPA5/bin/Debug/net7.0/testPA5.dll
+/Users/gmorris/testPA5/bin/Debug/net7.0/testPA5.pdb
+/Users/gmorris/testPA5/obj/Debug/net7.0/testPA5.dll
+/Users/gmorris/testPA5/obj/Debug/net7.0/refint/testPA5.dll
+/Users/gmorris/testPA5/obj/Debug/net7.0/testPA5.pdb
+/Users/gmorris/testPA5/obj/Debug/net7.0/testPA5.genruntimeconfig.cache
+/Users/gmorris/testPA5/obj/Debug/net7.0/ref/testPA5.dll
